@@ -7,7 +7,7 @@
 
 @import "reset";
 @import "variables";
-@import 'https://fonts.googleapis.com/css2?family=Quicksand&family=Arvo&family=Vampiro+One&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto+Slab&family=Vampiro+One&display=swap';
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -23,7 +23,7 @@ body {
 	background: $white;
   font: 18px/1.4 Quicksand;
   color: $darkGray;
-  font-weight: medium;
+  font-weight: 400;
 }
 
 .container {
@@ -34,9 +34,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Arvo;
+  font-family: Roboto Slab;
   color: $darkerGray;
-  font-weight: bold;
+  font-weight: 500;
 
 
   line-height: 1.7;
