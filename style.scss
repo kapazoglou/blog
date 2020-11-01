@@ -201,7 +201,7 @@ img {
   font-family: $georgia;
   font-weight: 500;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: 0px;
 }
 
 .site-description {
@@ -232,7 +232,7 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 0px;
+    letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
