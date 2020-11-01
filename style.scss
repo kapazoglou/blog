@@ -7,7 +7,9 @@
 
 @import "reset";
 @import "variables";
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import "web-fonts";
+@import url(web-fonts-url("Playfair Display"));
+
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
