@@ -12,8 +12,9 @@ layout: default
         {{ post.excerpt }}
       </div>
       
-      <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      
+      <span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
       
     </article>
   {% endfor %}
