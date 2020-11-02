@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A New Start
+comments: false
 tags: writing design
 ---
 ![mano](https://raw.githubusercontent.com/kapazoglou/blog/master/images/_hero.jpg)
