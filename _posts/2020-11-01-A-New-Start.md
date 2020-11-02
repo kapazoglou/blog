@@ -2,10 +2,10 @@
 layout: post
 comments: true
 title: A New Start
-tags: work games writing
+tags: work games writing design
 ---
 ![mano](https://raw.githubusercontent.com/kapazoglou/blog/master/images/_hero.jpg)
 
-Things didn't exactly go as planned in 2020 and I suspect that this shared feeling of making-it-up-as-we-go was what finally pushed me to start something of my own. Right now it could become a lot of things. One of them is this design diary.
+Things didn't exactly go as planned in 2020 and I suspect that this shared feeling of making-it-up-as-we-go was what finally pushed me to start something of my own. Right now it could become a lot of things. One of them is this blog.
 
 •
