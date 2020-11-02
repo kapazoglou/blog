@@ -1,8 +1,7 @@
 ---
 layout: post
-comments: true
 title: A New Start
-tags: work games writing design
+tags: writing design
 ---
 ![mano](https://raw.githubusercontent.com/kapazoglou/blog/master/images/_hero.jpg)
 
