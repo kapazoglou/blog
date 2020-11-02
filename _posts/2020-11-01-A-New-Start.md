@@ -6,6 +6,6 @@ tags: work games writing
 ---
 ![mano](https://raw.githubusercontent.com/kapazoglou/blog/master/images/_hero.jpg)
 
-So this is the beginning of my design diary.
+Things didn't exactly go as planned in 2020 and I suspect that this shared feeling of making-it-up-as-we-go was what finally pushed me to start something of my own. Right now it could become a lot of things. One of them is this blog.
 
-
+•
