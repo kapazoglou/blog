@@ -10,6 +10,6 @@ Things didn't exactly go as planned in 2020 and I suspect that this shared feeli
 
 > Begin, my friend for you cannot, you may be sure, take your song
 > which drives all things out of mind, with you to the other world.
->—William Carlos Williams, [music by Steve Reich](https://youtu.be/ZPVexT6itPA?t=174)
+>—William Carlos Williams, [set to music by Steve Reich](https://youtu.be/ZPVexT6itPA?t=174)
 
 •
